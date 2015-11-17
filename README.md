@@ -1,1 +1,3 @@
-# RemoveSameElementList
+ RemoveSameElementList
+ 这是写的一个用来删除2个List之间的相同元素的模型
+
